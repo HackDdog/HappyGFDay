@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+}
+.wrapper{
+    margin-top: 100px;
+    background-color: pink;
+    width: 300px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border: 5px solid rgb(189, 106, 120);
+}
+h1{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.gif{
+    width: 100px;
+
+}
